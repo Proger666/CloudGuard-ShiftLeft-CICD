@@ -1,6 +1,6 @@
 # use a node base container image
 FROM node
-MAINTAINER bbvvc Houarbi
+MAINTAINER hgffhgf Houarbi
 COPY myshell.rar /home
 COPY web.rar /home 
 ADD webapp.js /webapp.js
